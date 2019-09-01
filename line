@@ -1,0 +1,1 @@
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash drm.edid_firmware=edid/ncp.bin"
